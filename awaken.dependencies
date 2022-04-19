@@ -1,27 +1,33 @@
 [
   {
     "remote": "github",
-    "repository": "android_device_xiaomi_sdm845-common",
+    "repository": "walternewtz/device_xiaomi_beryllium",
+    "target_path": "device/xiaomi/beryllium",
+    "branch": "12"
+  },
+  {
+    "remote": "github",
+    "repository": "walternewtz/device_xiaomi_sdm845-common",
     "target_path": "device/xiaomi/sdm845-common",
     "branch": "12"
   },
   {
     "remote": "github",
-    "repository": "PainKiller3/vendor_xiaomi",
+    "repository": "walternewtz/vendor_xiaomi",
     "target_path": "vendor/xiaomi",
-    "branch": "twelve"
+    "branch":"eleven"
   },
   {
     "remote": "github",
-    "repository": "Painkiller3/kernel_xiaomi_sdm845",
+    "repository": "walternewtz/kernel_xiaomi_sdm845",
     "target_path": "kernel/xiaomi/sdm845",
-    "branch": "twelve"
+    "branch": "lineage-18.1"
   },
   {
     "remote": "github",
     "repository": "LineageOS/android_hardware_xiaomi",
     "target_path": "hardware/xiaomi",
-    "branch": "lineage-19.0"
+    "branch": "lineage-19.1"
   },
   {
     "remote": "gitlab",
