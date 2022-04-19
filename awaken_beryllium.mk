@@ -6,6 +6,10 @@
 
 $(call inherit-product, device/xiaomi/beryllium/device.mk)
 
+# GApps
+TARGET_GAPPS_ARCH := arm64
+USE_GAPPS := true
+
 # Inherit some common Awaken stuff.
 TARGET_BOOT_ANIMATION_RES := 1080
 TARGET_SUPPORTS_QUICK_TAP := true
