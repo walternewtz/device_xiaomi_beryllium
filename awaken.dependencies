@@ -13,9 +13,9 @@
   },
   {
     "remote": "github",
-    "repository": "walternewtz/vendor_xiaomi",
+    "repository": "PainKiller3/vendor_xiaomi",
     "target_path": "vendor/xiaomi",
-    "branch":"eleven"
+    "branch":"twelve"
   },
   {
     "remote": "github",
